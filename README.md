@@ -1,12 +1,13 @@
-# **Folkcare**
+# Folkcare
 An AI Application build with ***React-Native*** Cross-Platform Framework~
 
+# App Logo
 <img src="http://user-images.githubusercontent.com/90775550/221781915-9399f66b-97f3-464e-9718-8fa675fc0eb3.png" width = "300" height = "300" div align=center/>
 
-<video width="320" height="240" controls>
-    <source src="assets/App_Record.mp4" type="video/mp4">
-</video>
+# Demo Video
+https://user-images.githubusercontent.com/90775550/221792241-4b44250c-2dce-4365-9b90-907410348b78.mp4
 
+# Dependencies List
 <div>"dependencies": { </div>
 <div>    "@react-native-async-storage/async-storage": "^1.17.11",</div>
 <div>    "@react-navigation/bottom-tabs": "^6.5.4",</div>

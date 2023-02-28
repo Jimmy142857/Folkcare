@@ -2,10 +2,11 @@
 An AI Application build with ***React-Native*** Cross-Platform Framework~
 
 # App Logo
-<img src="http://user-images.githubusercontent.com/90775550/221781915-9399f66b-97f3-464e-9718-8fa675fc0eb3.png" width = "300" height = "300" div align=center/>
+<img src="http://user-images.githubusercontent.com/90775550/221781915-9399f66b-97f3-464e-9718-8fa675fc0eb3.png" width = "300" height = "300" align=center/>
 
 # Demo Video
-https://user-images.githubusercontent.com/90775550/221792241-4b44250c-2dce-4365-9b90-907410348b78.mp4
+Run on Honor V30 Pro (OXF-AN10), **Android Version: 10**.
+<video src="https://user-images.githubusercontent.com/90775550/221831025-2ce1762f-bded-4706-8636-7557b46883d0.mp4" controls="controls" width="500" height="500"></video>
 
 # Dependencies List
 <div>"dependencies": { </div>

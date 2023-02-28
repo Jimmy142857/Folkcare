@@ -4,7 +4,7 @@ An AI Application build with ***React-Native*** Cross-Platform Framework~
 <img src="http://user-images.githubusercontent.com/90775550/221781915-9399f66b-97f3-464e-9718-8fa675fc0eb3.png" width = "300" height = "300" div align=center/>
 
 <video width="320" height="240" controls>
-    <source src="" type="video/mp4">
+    <source src="assets/App_Record.mp4" type="video/mp4">
 </video>
 
 <div>"dependencies": { </div>

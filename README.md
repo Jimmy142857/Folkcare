@@ -1,5 +1,6 @@
-# Folkcare
-An AI Application build with React-Native Cross-Platform Framework~
+# **Folkcare**
+An AI Application build with ***React-Native*** Cross-Platform Framework~
+
 ![Logo_1](https://user-images.githubusercontent.com/90775550/221781915-9399f66b-97f3-464e-9718-8fa675fc0eb3.png)
 
 <div>"dependencies": { </div>

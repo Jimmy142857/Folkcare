@@ -6,13 +6,10 @@ An AI Application build with ***React-Native*** Cross-Platform Framework~
 
 # Demo Video
 Run on Honor V30 Pro (OXF-AN10), **Android Version: 10**.
-<video src="https://github.com/Jimmy142857/Folkcare/assets/90775550/324a6b47-0b9d-49be-8068-89bde3dd3545" width="500" height="500"></video>
+<video src="" width="500" height="500"></video>
 
 https://github.com/Jimmy142857/Folkcare/assets/90775550/324a6b47-0b9d-49be-8068-89bde3dd3545
 
-<video width="320" height="240" controls>
-  <source src="https://user-images.githubusercontent.com/90775550/221831025-2ce1762f-bded-4706-8636-7557b46883d0.mp4" type="video/mp4">
-</video>
 
 # Dependencies List
 <div>"dependencies": { </div>

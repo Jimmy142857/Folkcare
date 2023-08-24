@@ -8,6 +8,10 @@ An AI Application build with ***React-Native*** Cross-Platform Framework~
 Run on Honor V30 Pro (OXF-AN10), **Android Version: 10**.
 <video src="https://user-images.githubusercontent.com/90775550/221831025-2ce1762f-bded-4706-8636-7557b46883d0.mp4" width="500" height="500"></video>
 
+<video width="320" height="240" controls>
+  <source src="https://user-images.githubusercontent.com/90775550/221831025-2ce1762f-bded-4706-8636-7557b46883d0.mp4" type="video/mp4">
+</video>
+
 # Dependencies List
 <div>"dependencies": { </div>
 <div>    "@react-native-async-storage/async-storage": "^1.17.11",</div>

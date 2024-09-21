@@ -8,7 +8,11 @@ An AI Application build with ***React-Native*** Cross-Platform Framework~
 
 Run on Honor V30 Pro (OXF-AN10), **Android Version: 10**.
 
-
+<p align="center">
+  <img src="https://github.com/Jimmy142857/Folkcare/blob/main/assets/images/%E7%9B%B8%E6%9C%BA_2.png" width="30%" />
+  <img src="https://github.com/Jimmy142857/Folkcare/blob/main/assets/images/face_2.png" width="30%" />
+  <img src="https://github.com/Jimmy142857/Folkcare/blob/main/assets/images/data_1.png" width="30%" />
+</p>
 
 ## Dependencies List
 <div>"dependencies": { </div>

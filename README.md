@@ -11,7 +11,9 @@ https://github.com/user-attachments/assets/40182d4c-ef81-4a87-a82f-12ff5ef0a548
 
 Run on Honor V30 Pro (OXF-AN10), **Android Version: 10**.
 
-https://github.com/Jimmy142857/Folkcare/assets/90775550/324a6b47-0b9d-49be-8068-89bde3dd3545
+https://github.com/Jimmy142857/Folkcare/blob/main/assets/App_Record.mp4
+
+# https://github.com/Jimmy142857/Folkcare/assets/90775550/324a6b47-0b9d-49be-8068-89bde3dd3545
 
 ## Dependencies List
 <div>"dependencies": { </div>

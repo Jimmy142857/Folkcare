@@ -1,11 +1,14 @@
 # Folkcare
 An AI Application build with ***React-Native*** Cross-Platform Framework~
 
+
 ## App Logo
-<img src="https://github.com/Jimmy142857/Folkcare/blob/main/assets/images/Logo_2.png" width = "300" height = "300" align=center/>
+<p align="center">
+  <img src="https://github.com/Jimmy142857/Folkcare/blob/main/assets/images/Logo_2.png" width="300" height="300" />
+</p>
+
 
 ## Demo Pages
-
 Run on Honor V30 Pro (OXF-AN10), **Android Version: 10**.
 
 <p align="center">
@@ -13,6 +16,7 @@ Run on Honor V30 Pro (OXF-AN10), **Android Version: 10**.
   <img src="https://github.com/Jimmy142857/Folkcare/blob/main/assets/images/face_2.png" width="30%" />
   <img src="https://github.com/Jimmy142857/Folkcare/blob/main/assets/images/data_1.png" width="30%" />
 </p>
+
 
 ## Dependencies List
 <div>"dependencies": { </div>

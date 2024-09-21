@@ -2,7 +2,9 @@
 An AI Application build with ***React-Native*** Cross-Platform Framework~
 
 ## App Logo
-<img src="https://github.com/user-attachments/assets/40182d4c-ef81-4a87-a82f-12ff5ef0a548" width = "300" height = "300" align=center/>
+<img src="https://github.com/Jimmy142857/Folkcare/blob/main/assets/images/Logo_2.png" width = "300" height = "300" align=center/>
+
+https://github.com/user-attachments/assets/40182d4c-ef81-4a87-a82f-12ff5ef0a548
 
 ## Demo Video
 
